@@ -7,6 +7,10 @@ const Reviews = () => {
         <h1 className='text-[51px] font-bold font-sans'>ОТЗЫВЫ</h1>
         <div className='w-[100%] flex flex-wrap justify-between sm:justify-around mt-[50px]'>
             <div className='w-[48%] sm:w-[90%] mt-[30px] h-[590px]'>
+                {/* 
+                // 
+                // 
+                //  */}
                 <Image src="/grandpa.png" width={500} height={0} className='w-[100%]' alt='' />
                 <h1 className='my-[15px] sm:text-[22px] text-[19px] font-semibold'>ООО "Прометей-Сервис"</h1>
                 <p className='text-[gray] w-[75%] sm:w-[90%] font-medium'>В 2020 году компанией ОЛИС запущен комплекс по очистке зерна на базе сепаратора ЛУЧ ЗСО-200 в Николаевской области!

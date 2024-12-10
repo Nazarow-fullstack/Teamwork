@@ -10,6 +10,13 @@ const NotFound = () => {
         ЗАПРОШЕННАЯ ВАМИ СТРАНИЦА НЕ НАЙДЕНА
       </h1>
       <p className="text-lg text-gray-600 mb-8">
+        {/* qwe
+        qwe
+        qwe
+        qwe
+        qwe
+        qwe
+         */}
         Мы просим прощения за доставленные неудобства и предлагаем следующие пути:
       </p>
       <ul className="text-left text-gray-800 mb-8">
