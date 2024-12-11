@@ -8,3 +8,8 @@
 .b{
   background-image: url("../../public/yusuf/Mask Group.jpg");
 }
+
+.container {
+  max-width: 1400px;
+  margin: auto;
+}
