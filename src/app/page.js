@@ -245,6 +245,7 @@ export default function Home() {
             
             className="w-full bg-yellow-500 text-white py-2 px-4 rounded-md hover:bg-yellow-600">
             Оставить заявку
+            
           </button>
         </form>
       </div>
