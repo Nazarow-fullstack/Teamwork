@@ -1,0 +1,13 @@
+.banere {
+    width: 100%;
+    background-image: url('../../../assets/images/banerbg.png');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+@media(max-width: 400px) {
+    .banere {
+        display: block;
+    }
+}
