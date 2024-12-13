@@ -1,0 +1,8 @@
+.bbb {
+    background-image: url('../../../assets/images/banerbg.png');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    padding: 30px 0px;
+    text-align: center;
+}
