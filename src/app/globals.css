@@ -2,3 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+.container {
+  max-width: 1400px;
+  margin: auto;
+}
+.q{
+  background-image: url("../../public/yusuf/Group 95.png");
+}
+.b{
+  background-image: url("../../public/yusuf/Mask Group.jpg");
+}
